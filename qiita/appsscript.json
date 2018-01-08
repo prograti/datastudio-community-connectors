@@ -1,0 +1,20 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "OAuth2",
+      "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+      "version": "24"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Qiita Connector",
+    "logoUrl": "https://qiita-image-store.s3.amazonaws.com/0/184074/profile-images/1496063221",
+    "company": "Prograti",
+    "companyUrl": "https://twitter.com/prograti",
+    "addonUrl": "https://github.com/prograti/datastudio-community-connectors/tree/master/qiita",
+    "supportUrl": "https://github.com/prograti/datastudio-community-connectors/issues",
+    "description": "Connect to your Qiita account"
+  }
+}
