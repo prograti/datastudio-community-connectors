@@ -116,17 +116,6 @@ connector.schema = {
   ]
 };
 
-connector.sample_data = {
-  posts: [
-    {
-      title: 'test',
-      likes_count: 1,
-      comments_count: 2,
-      created_at: '2018-01-01T00:00:00+00:00'
-    }
-  ]
-};
-
 // Required functions
 function getAuthType() {
   return connector.invoke('getAuthType', null);
